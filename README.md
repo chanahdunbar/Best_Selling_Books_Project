@@ -1,10 +1,10 @@
 # Best Selling Books Project
 Dataset Link: https://www.kaggle.com/datasets/drahulsingh/best-selling-books 
 
-## Overview:
+## Overview
 The aim of this project is to identify and understand the properties within the provided dataset regarding best selling books within a 7 century time span and how those variables connect to one another. 
 
-## Questions: 
+## Questions
 1. How many languages are represented in the dataset?
 2. List all the languages represented in the dataset.
 3. Which author has published the most books?
